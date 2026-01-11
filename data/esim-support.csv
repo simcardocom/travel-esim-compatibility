@@ -8,7 +8,6 @@ France,FR,Europe,"Widely supported; eSIM adoption across major carriers",yes,yes
 India,IN,Asia,"Limited availability; only select carriers support eSIM",yes,yes,2026-01-11
 Brazil,BR,Americas,"Supported by major carriers in urban areas; check device compatibility",yes,yes,2026-01-11
 South Africa,ZA,Africa,"Emerging support; available on selected networks and devices",yes,yes,2026-01-11
-
 Canada,CA,Americas,"Widely supported; major carriers offer eSIM",yes,yes,2026-01-11
 Mexico,MX,Americas,"Supported by leading carriers; check device and plan",yes,yes,2026-01-11
 United Kingdom,GB,Europe,"Widely supported; eSIM available on most networks",yes,yes,2026-01-11
@@ -19,3 +18,13 @@ New Zealand,NZ,Oceania,"Supported; eSIM available on selected carriers",yes,yes,
 China,CN,Asia,"Limited support; eSIM mainly for connected devices, not phones",yes,no,2026-01-11
 South Korea,KR,Asia,"Emerging support; some carriers and phones offer eSIM",yes,yes,2026-01-11
 Singapore,SG,Asia,"Widely supported; easy activation via QR codes",yes,yes,2026-01-11
+Russia,RU,Europe,"Supported in major cities; carrier-dependent",yes,yes,2026-01-11
+Turkey,TR,Europe,"Supported by leading carriers; check device compatibility",yes,yes,2026-01-11
+Saudi Arabia,SA,Middle East,"Limited availability; some carriers offer eSIM",yes,yes,2026-01-11
+Egypt,EG,Africa,"Emerging support; available on select networks",yes,yes,2026-01-11
+Argentina,AR,Americas,"Supported by a few carriers; check plan details",yes,yes,2026-01-11
+Chile,CL,Americas,"Supported; eSIM available via major operators",yes,yes,2026-01-11
+Thailand,TH,Asia,"Widely supported; carriers offer travel eSIM plans",yes,yes,2026-01-11
+Malaysia,MY,Asia,"Supported; eSIM available on major networks",yes,yes,2026-01-11
+Indonesia,ID,Asia,"Limited support; only select carriers support eSIM",yes,yes,2026-01-11
+Sweden,SE,Europe,"Widely supported; carriers provide eSIM activation online",yes,yes,2026-01-11
