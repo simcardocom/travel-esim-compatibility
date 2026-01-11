@@ -1,0 +1,5 @@
+country,iso2,region,esim_available_notes,iphone_esim,android_esim,last_updated
+Czechia,CZ,Europe,"Generally supported; depends on carrier and device",yes,yes,2026-01-11
+Japan,JP,Asia,"Widely supported; check device compatibility and carrier",yes,yes,2026-01-11
+United States,US,Americas,"Widely supported; many eSIM-only devices exist",yes,yes,2026-01-11
+United Arab Emirates,AE,Middle East,"Supported; policies may vary by operator",yes,yes,2026-01-11
